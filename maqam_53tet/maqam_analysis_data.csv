@@ -1,0 +1,73 @@
+Maqam,NoteName,CommaIndex(Ref_A_0),FrequencyHz
+Buselik_A,Dügah (A),0,440.0000
+Buselik_A,Buselik (B),9,494.9610
+Buselik_A,Çargah (C),13,521.5431
+Buselik_A,Neva (D),22,586.6898
+Buselik_A,Hüseyni (E),31,659.9740
+Buselik_A,Acem (F),35,695.4182
+Buselik_A,Gerdaniye (G),44,782.2839
+Buselik_A,Muhayyer (A),53,880.0000
+Kurdi_A,Dügah (A),0,440.0000
+Kurdi_A,Kürdi (B b4),4,463.6304
+Kurdi_A,Çargah (C),13,521.5431
+Kurdi_A,Neva (D),22,586.6898
+Kurdi_A,Hüseyni (E),31,659.9740
+Kurdi_A,Acem (F),35,695.4182
+Kurdi_A,Gerdaniye (G),44,782.2839
+Kurdi_A,Muhayyer (A),53,880.0000
+Huseyni_A,Dügah (A),0,440.0000
+Huseyni_A,Segah (B b1),8,488.5299
+Huseyni_A,Çargah (C),13,521.5431
+Huseyni_A,Neva (D),22,586.6898
+Huseyni_A,Hüseyni (E),31,659.9740
+Huseyni_A,Eviç (F #4),39,732.7660
+Huseyni_A,Gerdaniye (G),44,782.2839
+Huseyni_A,Muhayyer (A),53,880.0000
+Segah_B,Segah (B),8,488.5299
+Segah_B,Çargah (C),13,521.5431
+Segah_B,Neva (D),22,586.6898
+Segah_B,Hüseyni (E),31,659.9740
+Segah_B,Eviç (F#),39,732.7660
+Segah_B,Gerdaniye (G),44,782.2839
+Segah_B,Muhayyer (A),53,880.0000
+Segah_B,Tiz Segah (B),61,977.0598
+Saba_A,Dügah (A),0,440.0000
+Saba_A,Segah (B),8,488.5299
+Saba_A,Çargah (C),13,521.5431
+Saba_A,Hicaz (Db/C#),17,549.5529
+Saba_A,Hüseyni (E),31,659.9740
+Saba_A,Acem (F),35,695.4182
+Saba_A,Gerdaniye (G),44,782.2839
+Saba_A,Muhayyer (A),53,880.0000
+Rast_G,Rast (G),-9,391.1419
+Rast_G,Dügah (A),0,440.0000
+Rast_G,Segah (B b5),8,488.5299
+Rast_G,Çargah (C),13,521.5431
+Rast_G,Neva (D),22,586.6898
+Rast_G,Hüseyni (E),31,659.9740
+Rast_G,Eviç (F #4),39,732.7660
+Rast_G,Gerdaniye (G),44,782.2839
+Hicaz_A,Dügah (A),0,440.0000
+Hicaz_A,Dik Kürdi (B b5),5,469.7337
+Hicaz_A,Hicaz (C #4),17,549.5529
+Hicaz_A,Neva (D),22,586.6898
+Hicaz_A,Hüseyni (E),31,659.9740
+Hicaz_A,Acem (F),35,695.4182
+Hicaz_A,Gerdaniye (G),44,782.2839
+Hicaz_A,Muhayyer (A),53,880.0000
+Ussak_A,Dügah (A),0,440.0000
+Ussak_A,Segah (B b1),8,488.5299
+Ussak_A,Çargah (C),13,521.5431
+Ussak_A,Neva (D),22,586.6898
+Ussak_A,Hüseyni (E),31,659.9740
+Ussak_A,Acem (F),35,695.4182
+Ussak_A,Gerdaniye (G),44,782.2839
+Ussak_A,Muhayyer (A),53,880.0000
+Nihavend_A,Dügah (A),0,440.0000
+Nihavend_A,Buselik (B),9,494.9610
+Nihavend_A,Çargah (C),13,521.5431
+Nihavend_A,Neva (D),22,586.6898
+Nihavend_A,Hüseyni (E),31,659.9740
+Nihavend_A,Acem (F),35,695.4182
+Nihavend_A,Gerdaniye (G),44,782.2839
+Nihavend_A,Muhayyer (A),53,880.0000
